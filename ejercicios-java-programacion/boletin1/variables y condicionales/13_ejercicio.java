@@ -5,7 +5,7 @@ Pedir un número entre 0 y 9.999, decir si es capicúa.
 import java.util.Scanner;
 
 public class ejercicioTrece {
-    public static void main(){
+    public static void main(String[] args){
         int numero;
         int a1, a2, a3, a4;
         int b1, b2, b3, b4;
